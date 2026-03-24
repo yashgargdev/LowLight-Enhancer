@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Training data
+dataset/
+
+# Notebook and tooling artifacts
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
