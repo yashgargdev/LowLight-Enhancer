@@ -1,9 +1,4 @@
 torch
 torchvision
-opencv-python
 numpy
-gradio==4.44.1
-huggingface_hub<0.25
-pydantic<2.10
 Pillow
-pytorch-msssim
